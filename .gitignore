@@ -1,0 +1,6 @@
+*.opendb
+Debug/
+Release/
+mengGu/Debug/
+mengGu/Release/
+.vs/
